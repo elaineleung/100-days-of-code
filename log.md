@@ -1,6 +1,6 @@
 # 100 Days Of Code: Coding Log
 
-### Day 1: January 1, 2020 
+### Day 1: January 1, 2021 
 
 **Today's Progress**: Added functionality to calculator keys
 
